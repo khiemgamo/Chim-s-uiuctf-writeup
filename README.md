@@ -53,8 +53,11 @@ Sau khi đạt đến **100 Shiny Pokemon Card**, ta chuyển sang món đáng m
 Tiếp tục spam Clout cho đến khi đủ **12.000.000** 
 Và ta mua được 3 phần của flag
 >**/buy ```item_type:single``` ``` item:Flag Common``` ```number_of_items:1```**
+>
 >**/buy ```item_type:single``` ``` item:Flag Rare``` ```number_of_items:1```**
+>
 >**/buy ```item_type:single``` ``` item:Flag Ultra Rare``` ```number_of_items:1```**
+>
 >**/Redeem_flags**
 
 ![Flag](https://github.com/khiemgamo/Chim-s-uiuctf-writeup/blob/main/Markdown_1.0.1/Picture5.png)
